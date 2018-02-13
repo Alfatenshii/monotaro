@@ -1,0 +1,2 @@
+# monotaro
+Discord Music Bot
